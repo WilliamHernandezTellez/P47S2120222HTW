@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">p47s2120222htw</string>
+    <string name="resta">resta</string>
+    <string name="suma">suma</string>
+    <string name="titulosuma">operacion suma</string>
+    <string name="num1">Coloca el primer numero</string>
+    <string name="num2">Coloca el segundo numero</string>
+    <string name="result">resultado: </string>
+    <string name="tituloresta">operacion resta</string>
+    <string name="num3">Coloca el primer numero</string>
+    <string name="num4">Coloca el segundo numero</string>
+    <string name="calcular">calcular</string>
+    <string name="regresa">regresa</string>
+</resources>
